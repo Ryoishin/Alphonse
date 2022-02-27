@@ -24,7 +24,7 @@ A Powerful Telegram userbot based on Telethon .
 
 ### Heroku Deploy
 
-  - [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TeamAlphonse/Alphonse)
+  - [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?)
 
 ### Railway Deploy
 
